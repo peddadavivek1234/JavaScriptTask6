@@ -1,5 +1,3 @@
-/*
-
 //Task 1: Student attendance
 
 function attendance() {
@@ -27,9 +25,7 @@ function attendance() {
 
 attendance();
 
-*/
 
-/*
 
 //Task 2: Cricket Match Booking System
 
@@ -72,9 +68,7 @@ function cricketBooking() {
 
 cricketBooking();
 
-*/
 
-/*
 
 //Task 3: Water Bill Payment
 
@@ -111,7 +105,7 @@ function waterBillPayment() {
 
 waterBillPayment();
 
-*/
+
 
 //Task 19: Vehicle Insurance Renewal System
 
